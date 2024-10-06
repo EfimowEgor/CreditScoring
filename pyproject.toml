@@ -16,6 +16,13 @@ fastapi = "^0.115.0"
 pandas = "^2.2.3"
 numpy = "^2.1.1"
 fastapi = "^0.115.0"
+mypy = "^1.11.2"
+flake8 = "^7.1.1"
+pylint = "^3.3.1"
+black = "^24.8.0"
+coverage = "^7.6.1"
+pytest = "^8.3.3"
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
